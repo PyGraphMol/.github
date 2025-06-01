@@ -2,7 +2,7 @@
 
 **Graph-Centric Computational Molecular Science Framework**
 
-GraphMol is a unified, principled framework for computational molecular science, designed from the ground up with geometric elegance and mathematical beauty. We provide a comprehensive platform that spans from quantum-scale calculations to systems-level modeling, all built on a foundation of clean architectural principles.
+GraphMol is a unified, optimized by design, ML-Native, principled framework for computational molecular science, designed from the ground up with geometric elegance and mathematical beauty.
 
 ## At a Glance
 
