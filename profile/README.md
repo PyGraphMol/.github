@@ -26,7 +26,6 @@ The result is not just another tool, but a **mathematical edifice** that makes c
 🏗️ **[Architecture](docs/ARCHITECTURE.md)** - Technical architecture and design patterns  
 ⚙️ **[Features](docs/FEATURES.md)** - Detailed capabilities and functionality  
 🌟 **[Design Excellence](docs/DESIGN.md)** - Our approach to mathematical beauty in code  
-🔗 **[Ecosystem](docs/ECOSYSTEM.md)** - Extensions and integration tools
 
 ## Contributing
 
