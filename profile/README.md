@@ -1,4 +1,4 @@
-# GraphMol
+# PyGraphMol
 
 **Graph-Centric Computational Molecular Science Framework**
 
@@ -14,15 +14,15 @@ A unified, optimized by design, ML-Native, principled framework for computationa
 - **Machine learning native** with seamless integration for modern neural architectures
 - **Principled foundation** with clean layered architecture and zero compromises
 
-## Why GraphMol?
+## Why PyGraphMol?
 
-We eliminate the **fragmentation** that plagues computational molecular science. Instead of maintaining dozens of specialized tools with incompatible approaches, GraphMol provides a **unified ecosystem** where every component strengthens the whole.
+We eliminate the **fragmentation** that plagues computational molecular science. Instead of maintaining dozens of specialized tools with incompatible approaches, PyGraphMol provides a **unified ecosystem** where every component strengthens the whole.
 
 The result is not just another tool, but a **mathematical edifice** that makes computational molecular science more powerful, more elegant, and more joyful to practice.
 
 ## Documentation
 
-📖 **[Philosophy & Motivation](docs/PHILOSOPHY.md)** - Why GraphMol exists and our design principles  
+📖 **[Philosophy & Motivation](docs/PHILOSOPHY.md)** - Why PyGraphMol exists and our design principles  
 🏗️ **[Architecture](docs/ARCHITECTURE.md)** - Technical architecture and design patterns  
 ⚙️ **[Features](docs/FEATURES.md)** - Detailed capabilities and functionality  
 🌟 **[Design Excellence](docs/DESIGN.md)** - Our approach to mathematical beauty in code  
